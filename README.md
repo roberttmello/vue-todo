@@ -1,6 +1,10 @@
 # Vue ToDo
 
-This is a simple Vue 3 todo app using Composition API.
+This is a simple Vue 3 todo app using Composition API. 😎
+
+## Demo
+
+👉 Acess the demo [**HERE**](https://roberttmello-vue-todo.vercel.app/).
 
 ## Project Setup
 
